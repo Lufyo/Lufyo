@@ -58,5 +58,3 @@ Graduando Ciência da Computação possuindo também formação técnica em Dese
 
 <img align="left" alt="docker" title="docker" width="30px" style="padding-right: 10px;"    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-
----

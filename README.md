@@ -59,13 +59,3 @@ Graduando Ciência da Computação possuindo também formação técnica em Dese
 <img align="left" alt="docker" title="docker" width="30px" style="padding-right: 10px;"    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-
-

@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**\
 Técnico Desenvolvimento de Sistemas\
-Graduando Ciência da Computação\
+Graduando Ciência da Computação
 
 ---
 

@@ -1,8 +1,8 @@
 # Lúfyo França 👨‍💻
 
 **`Desenvolvedor FullStack`**
-
-Graduando Ciência da Computação possuindo também formação técnica em Desenvolvimento de Sistemas.
+Técnico Desenvolvimento de Sistemas
+Graduando Ciência da Computação
 
 ---
 
